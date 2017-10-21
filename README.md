@@ -1,1 +1,3 @@
-# node_server
+# Node Server
+
+The simplest node js server!
